@@ -76,8 +76,8 @@ class Art:
   
 # Works of Art
 girl_with_mandolin = Art("Picasso, Pablo", "Girl with a Mandolin (Fanny Tellier)", "oil on canvas", 1910, edytta)
-sunflowers = Art("van Gogh, Vincent", "Sunflowers", "oil on canvas", 1878, moma)
-stormysea = Art("Brueghel, Pieter", "Storm at Sea", "poop on pants", 1760, edytta)
+sunflowers = Art("van Gogh, Vincent", "Sunflowers", "oil on canvas", 1887, moma)
+stormysea = Art("van Rijn, Rembrandt", "Storm at Sea", "poop on pants", 1633, edytta)
 
 # Commands
 edytta.sell_artwork(girl_with_mandolin, 6000000)
